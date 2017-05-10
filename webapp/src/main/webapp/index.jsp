@@ -1,2 +1,6 @@
-Hello, World! -- Created by Karthik
---Modified locally !!!
+Hello, World!
+
+This page comes from my local Tomcat! 
+
+
+Created by Karthik
